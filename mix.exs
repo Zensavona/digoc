@@ -35,7 +35,7 @@ defmodule DigOc.Mixfile do
     [ 
      {:earmark, "~> 0.1", only: :dev},
      {:ex_doc, "~> 0.6", only: :dev},
-     {:poison, "~> 1.3.0"},
+     {:poison, "~> 1.5.0"},
      {:httpoison, "~> 0.5"}
     ]
   end
